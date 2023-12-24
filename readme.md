@@ -4,6 +4,10 @@ The user is able to search for a city and that current weather will populate. Th
 ## Description
 
 This application is helpful for displaying a city's current weather and 5 day forecast.
+## Deployed Application
+
+Check out the live version of the application [here](https://la0615.github.io/Weather-Dashboard/).
+
 
 ## Usage
 
