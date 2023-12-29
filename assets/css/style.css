@@ -3,13 +3,11 @@ body {
     background-color: lightgray;
   }
   
-  /* Top Row Heading */
   h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     font-size: 24px;
   }
   
-  /* Top Row Heading */
   h1 {
     font-size: 2.5rem;
   }
@@ -21,7 +19,7 @@ body {
   #searchForm {
     margin-top: 20px;
     width: fit-content;
-    border-radius: solid black; /* This line seems incorrect. It should be 'border-radius: 5px;' for example */
+    border-radius: solid black; 
   }
   
   label {
